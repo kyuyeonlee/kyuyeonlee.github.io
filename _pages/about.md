@@ -2,24 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: MSCS Student @GATech
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: kyuyeon.jpg
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+**Welcome!**
+I'm currently pursuing a Master's in Computer Science at Georgia Tech, focusing on expanding my expertise in GPU applications, particularly for machine learning and beyond.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before moving to Atlanta, I worked as a software engineer at [Samsung Electronics Device Solutions](https://www.samsung.com/us/about-us/our-business/device-solutions/), where I contributed to the development of RDNA-based Xclipse GPUs for [Exynos SoCs](https://semiconductor.samsung.com/processor/mobile-processor/exynos-2400/). I was also involved in mobile GPU performance optimization at Samsung's research lab, [SARC-ACL](https://semiconductor.samsung.com/us/about-us/us-office/us-r-and-d-labs/computing-lab-sarc-acl/), in San Jose, CA, and participated in marketing efforts for [CES 2024](https://semiconductor.samsung.com/us/events/ces-2024/) (catch me at 1:15 in the video!). Prior to my time at Samsung, I earned dual Bachelor's degrees in Computer Science and Mathematics from [Sogang University](https://www.sogang.ac.kr/), graduating with Magna Cum Laude honors.
