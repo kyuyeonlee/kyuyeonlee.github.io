@@ -22,4 +22,4 @@ for (k = 2; k <= n; k *= 2) // k is doubled every iteration
                       swap the elements arr[i] and arr[l]
 ```
 
-The goal of this project is to implement an efficient CUDA kernel that accelerates bitonic sorting with optimization techniques such as shared memory and pinned memory usage. Check out the report (<a href="https://kyuyeonlee.github.io/assets/pdf/CS_8803_GPU_project2.pdf">here</a>).
+The goal of this project is to implement an efficient CUDA kernel that accelerates bitonic sorting with optimization techniques such as shared memory and pinned memory usage. Check out the report (<a href="https://kyuyeonlee.github.io/">here</a>).
