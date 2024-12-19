@@ -38,8 +38,8 @@
       "location": "San Jose, CA, USA",
       "position": "Engineer",
       "url": "",
-      "startDate": "2024-01-27",
-      "endDate": "2022-11-01",
+      "startDate": "2022-11-01",
+      "endDate": "2024-01-27",
       "summary": "GPU UMD Development",
       "highlights": ["Vulkan render pass performance optimization", "Profiling interface design"]
     },
@@ -62,7 +62,7 @@
       "area": "Machine Learning",
       "studyType": "Master's in Science",
       "startDate": "2024-08-19",
-      "endDate": "2026-05-01"
+      "endDate": "present"
     },
     {
       "institution": "Sogang University",
