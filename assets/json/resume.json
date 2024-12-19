@@ -25,7 +25,7 @@
   "work": [
     {
       "name": "Samsung Electronics",
-      "location": "Hwaseong, South Korea",
+      "location": "Hwaseong, Republic of Korea",
       "position": "Engineer",
       "url": "",
       "startDate": "2024-01-28",
@@ -34,24 +34,24 @@
       "highlights": ["Platform abstraction layer (https://github.com/GPUOpen-Drivers/pal)"]
     },
     {
-      "name": "Samsung Austin Semiconductor",
+      "name": "Samsung SARC/ACL",
       "location": "San Jose, CA, USA",
       "position": "Engineer",
       "url": "",
       "startDate": "2024-01-27",
       "endDate": "2022-11-01",
       "summary": "GPU UMD Development",
-      "highlights": ["Vulkan performance", "Profiling interface design", "CES 2024"]
+      "highlights": ["Vulkan render pass performance optimization", "Profiling interface design"]
     },
     {
       "name": "Samsung Electronics",
-      "location": "Hwaseong, South Korea",
+      "location": "Hwaseong, Republic of Korea",
       "position": "Engineer",
       "url": "",
       "startDate": "2020-03-16",
       "endDate": "2022-10-31",
       "summary": "GPU UMD Development",
-      "highlights": ["ANGLE (https://github.com/google/angle)", "ARM Mali drivers"]
+      "highlights": ["ANGLE (https://github.com/google/angle)", "ARM Mali drivers", "ANGLE/GLES and OpenCL drivers"]
     }
   ],
   "education": [

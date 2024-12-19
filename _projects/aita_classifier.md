@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: AITA Classifier
+description: CS 7641 team project
+img: assets/img/communityIcon_8qil7zgp7oh81.png
+redirect: https://dingusagar.github.io/cs7641-project/
 importance: 3
-category: fun
+category: GATech
 ---
 
 Every project has a beautiful feature showcase page.
