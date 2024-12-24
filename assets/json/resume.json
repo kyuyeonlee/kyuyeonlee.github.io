@@ -25,7 +25,7 @@
   "work": [
     {
       "name": "Samsung Electronics",
-      "location": "Hwaseong, Republic of Korea",
+      "location": "Republic of Korea",
       "position": "Engineer",
       "url": "",
       "startDate": "2024-01-28",
@@ -45,13 +45,13 @@
     },
     {
       "name": "Samsung Electronics",
-      "location": "Hwaseong, Republic of Korea",
+      "location": "Republic of Korea",
       "position": "Engineer",
       "url": "",
       "startDate": "2020-03-16",
       "endDate": "2022-10-31",
       "summary": "GPU UMD Development",
-      "highlights": ["ANGLE (https://github.com/google/angle)", "ARM Mali drivers", "ANGLE/GLES and OpenCL drivers"]
+      "highlights": ["ANGLE (https://github.com/google/angle)", "Graphics Performance optimization", "ARM Mali drivers"]
     }
   ],
   "education": [
@@ -59,14 +59,14 @@
       "institution": "Georgia Institute of Technology",
       "location": "Atlanta, GA",
       "url": "https://gatech.edu",
-      "area": "Machine Learning",
+      "area": "Computer Science, Machine Learning Concentration",
       "studyType": "Master's in Science",
       "startDate": "2024-08-19",
       "endDate": "present"
     },
     {
       "institution": "Sogang University",
-      "location": "Seoul, South Korea",
+      "location": "Republic of Korea",
       "url": "https://www.sogang.ac.kr",
       "area": "Computer Science Engineering, Mathematics",
       "studyType": "Bachelor's in Science",
