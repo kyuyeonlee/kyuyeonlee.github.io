@@ -24,6 +24,16 @@
   },
   "work": [
     {
+      "name": "Georgia Institute of Technology",
+      "location": "Atlanta, GA USA",
+      "position": "Graduate Research Assistant",
+      "url": "",
+      "startDate": "2025-01-06",
+      "endDate": "2025-04-30",
+      "summary": "CRNCH Rogues Gallery Maintenance",
+      "highlights": ["Rogues gallery (https://crnch.gatech.edu/rogues-gallery/)"]
+    },
+    {
       "name": "Samsung Electronics",
       "location": "Republic of Korea",
       "position": "Engineer",
