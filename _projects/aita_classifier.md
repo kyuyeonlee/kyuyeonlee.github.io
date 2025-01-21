@@ -3,7 +3,7 @@ layout: page
 title: AITA Classifier
 description: CS 7641 team project
 img: assets/img/communityIcon_8qil7zgp7oh81.png
-redirect: https://dingusagar.github.io/cs7641-project/
+redirect: https://github.com/dingusagar/AmITheAsshole-Classifier
 importance: 3
 category: GATech
 ---
